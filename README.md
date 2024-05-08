@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @TharushiDSilva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tharushi De Silva
+- 👀 I’m interested in UI/UX designing and Data Science.
+- 🌱 I’m currently an Undergraduate at University of Moratuwa
+- 📫 you can reach me via,
+          Email: Desilva.tharushiw@gmail.com
+          linkedin: www.linkedin.com/in/tharushii
 
 <!---
 TharushiDSilva/TharushiDSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

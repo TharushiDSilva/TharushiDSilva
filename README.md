@@ -14,10 +14,10 @@
 
 🎓 **Third-year IT Undergraduate** at the *University of Moratuwa, Faculty of Information Technology*  
 💡 Passionate about **software development**, **problem solving**, and **building secure, scalable systems**  
-🧠 Skilled in **frontend & backend integration**, **authentication**, and **AI chatbot development**  
+🧠 Skilled in **frontend & backend integration**, **UI/UX design**, and **FullStack development**  
 💬 I love working in collaborative environments and exploring creative design ideas  
 📫 Reach me at **Desilva.tharushiw@gmail.com**  
-📍 Based in Sri Lanka  
+📍 Sri Lanka  
 
 
 ### ⚙️ Tech Stack
@@ -71,9 +71,9 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| 🔐 [**PresCrypt**](https://github.com/TharushiDSilva/PresCrypt) | Secure doctor–patient management system with role-based access, JWT authentication, and AI chatbot. | `.NET 8`, `Next.js`, `MS SQL`, `Flask` |
-| 🍴 [**Embula**](https://github.com/TharushiDSilva/Embula) | Restaurant web app with table reservations, AI chatbot, and secure payments. | `Next.js`, `Spring Boot`, `MySQL` |
-| 📱 [**FlagX**](https://github.com/TharushiDSilva/FlagX) | Smartphone comparison platform with live data updates. | `React`, `Ballerina`, `MongoDB` |
+| 🔐 [**PresCrypt**](https://github.com/TechGenPioneers) | Secure doctor–patient management system with role-based access, JWT authentication, and AI chatbot. | `.NET 8`, `Next.js`, `MS SQL`, `Flask` |
+| 🍴 [**Embula**](https://github.com/Embula-Project) | Restaurant web app with table reservations, AI chatbot, and secure payments. | `Next.js`, `Spring Boot`, `MySQL` |
+| 📱 [**FlagX**) | Smartphone comparison platform with live data updates. | `React`, `Ballerina`, `MongoDB` |
 | 🧑‍💼 [**Portfolio Website**](https://tharushidev.vercel.app/) | Personal portfolio showcasing projects, skills, and achievements. | `Next.js`, `Tailwind CSS` |
 | ⚙️ [**Water Tank Cleaning System**](#) | Automated water cleaning system with Arduino & sensors. | `C++`, `Arduino` |
 
@@ -118,6 +118,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TharushiDSilva&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views" />
-</p>
+
